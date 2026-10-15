@@ -276,4 +276,4 @@ Interaktivitas:
 
 ---
 
-*Dibuat sebagai proyek latihan analisis data. Silakan ganti bagian ini dengan nama dan tautan profil kamu.*
+Latihan ini dibuat sebagai analisis latihan data end-to-end menggunakan PostgreSQL dan PowerBI.
